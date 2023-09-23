@@ -1,1 +1,2 @@
-# Super-Store-DataAnalysis with Power Bi
+# Super-Store-DataAnalysis 
+Super Store Data Analysis with Power Bi
